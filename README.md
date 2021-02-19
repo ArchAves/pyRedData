@@ -1,4 +1,4 @@
-<p style="font-size:20px"><b>Redacted Data</b></p>
+# Redacted Data
 
 This is my terrible Grade12 CompSci assignment, where I chose to make
 a "hacking" based puzzle game.
