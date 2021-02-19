@@ -1,0 +1,2 @@
+Sample name: TXR8693
+Strength: 0.52r

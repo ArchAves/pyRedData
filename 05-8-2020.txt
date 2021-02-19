@@ -1,0 +1,5 @@
+simonhendriksson@havocdynamics.org
+subject: potential danger
+This antimass-spectrometer worries me. While mostly unlikely, I can't overlook the possibility of a resonance cascade
+if we are ever to use any extreme samples. I greatly suggest we start with small things, as a resonance cascade could
+genuinely spell the end for not just our laboratory, but the human race.

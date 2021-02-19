@@ -1,0 +1,5 @@
+terrencefletching@havocdynamics.org
+subject: Status of construction
+Sending this out to all researchers here at Havoc. The construction of our antimass-spectrometer
+is nearly complete, and we should soon be able to test different samples under it, likely within
+a month.

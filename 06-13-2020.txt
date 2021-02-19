@@ -1,0 +1,5 @@
+simonhedriksson@havocdynamics.org
+Hey Rob, I just talked to Terrence about the antimass-spectrometer, and its potential dangers.
+He claims that its designed for optimal safety, but after looking at the blueprints and patents,
+it doesn't meet any of our lab safety standards, or many safety standards at all for that matter.
+I have a really bad feeling about all this.

@@ -1,0 +1,12 @@
+forum
+--------
+Torrminator23
+	Hey, anyone looked at Havoc Dynamics recently? Their site went private after a recent controversy.
+
+Davison99
+	Yeah, that's odd. It's completely inaccessible.
+
+CSRin
+	If you want to try getting into their 
+  network, I have a repository updater on my
+  userpage.
